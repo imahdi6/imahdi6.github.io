@@ -1,0 +1,20 @@
+body{
+  margin:0;
+}
+a{
+  text-decoration: none;
+}
+.swidth{
+  width: 900px;
+  margin: 0 auto;
+  margin-top: 200px;
+}
+#ul-box ul li{
+  display: inline-block;
+}
+#ul-box ul li p {
+  text-align: center;
+  font-size: 35px;
+  font-family:sans-serif;
+  color: black;
+}

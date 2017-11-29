@@ -1,5 +1,6 @@
 body{
   margin:0;
+  background: url(zenit_retro_camera_photos_map_107245_3840x2160.jpg);
 }
 a{
   text-decoration: none;
@@ -16,5 +17,5 @@ a{
   text-align: center;
   font-size: 35px;
   font-family:sans-serif;
-  color: black;
+  color: white;
 }
